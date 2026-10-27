@@ -10,3 +10,4 @@
 - 7-everybody: adds execute permission to owner, group and others on hello.
 - 8-James_Bond: sets permissions of hello to 007 (only others have all permissions).
 - 9-John_Doe: sets the mode of hello to 753 (-rwxr-x-wx).
+- 10-mirror_permissions: sets the mode of hello the same as olleh.
