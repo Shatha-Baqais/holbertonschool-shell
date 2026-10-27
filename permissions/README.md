@@ -12,3 +12,4 @@
 - 9-John_Doe: sets the mode of hello to 753 (-rwxr-x-wx).
 - 10-mirror_permissions: sets the mode of hello the same as olleh.
 - 11-directories_permissions: adds execute permission to all subdirectories for everyone.
+- 12-directory_permissions: creates the directory my_dir with permissions 751.
