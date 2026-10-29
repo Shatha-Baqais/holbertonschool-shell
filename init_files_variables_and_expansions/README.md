@@ -15,3 +15,4 @@ This project covers shell initialization files, variables, expansions, arithmeti
 | `6-create_local_variable` | Creates a local variable BEST with the value School |
 | `7-create_global_variable` | Creates a global variable BEST with the value School |
 | `8-true_knowledge` | Prints 128 plus the value of TRUEKNOWLEDGE |
+| `9-divide_and_rule` | Prints POWER divided by DIVIDE |
