@@ -7,3 +7,4 @@ This project covers shell initialization files, variables, expansions, arithmeti
 | File | Description |
 |---|---|
 | `0-alias` | Creates an alias named `ls` with the value `rm -f *` |
+| `1-hello_you` | Prints hello followed by the current Linux user |
