@@ -17,3 +17,4 @@ This project covers shell initialization files, variables, expansions, arithmeti
 | `8-true_knowledge` | Prints 128 plus the value of TRUEKNOWLEDGE |
 | `9-divide_and_rule` | Prints POWER divided by DIVIDE |
 | `10-love_exponent_breath` | Prints BREATH to the power of LOVE |
+| `11-binary_to_decimal` | Converts the binary number in BINARY to decimal |
