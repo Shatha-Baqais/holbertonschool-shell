@@ -20,3 +20,4 @@ This project covers shell initialization files, variables, expansions, arithmeti
 | `11-binary_to_decimal` | Converts the binary number in BINARY to decimal |
 | `12-combinations` | Prints all two-letter combinations from aa to zz except oo |
 | `13-print_float` | Prints NUM with two decimal places |
+| `14-decimal_to_hexadecimal` | Converts the decimal number in DECIMAL to hexadecimal |
